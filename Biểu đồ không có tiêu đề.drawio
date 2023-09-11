@@ -1,26 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T07:43:28.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6IhfGwwBhF046TVmA75S" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T08:58:49.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IOiRHXswqBCMb8er-3oK" version="21.7.4" type="github">
   <diagram name="Trang-1" id="ZdurWc9LPjSaqr9zgweb">
     <mxGraphModel dx="1006" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="USiB5ADE2S48RDX-EepQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="354" y="140" width="126" height="60" as="geometry" />
+        <mxCell id="USiB5ADE2S48RDX-EepQ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="USiB5ADE2S48RDX-EepQ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="USiB5ADE2S48RDX-EepQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="280" as="sourcePoint" />
-            <mxPoint x="414" y="290" as="targetPoint" />
+        <mxCell id="USiB5ADE2S48RDX-EepQ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USiB5ADE2S48RDX-EepQ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USiB5ADE2S48RDX-EepQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="USiB5ADE2S48RDX-EepQ-15" target="USiB5ADE2S48RDX-EepQ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="USiB5ADE2S48RDX-EepQ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="114" height="60" as="geometry" />
+        <mxCell id="USiB5ADE2S48RDX-EepQ-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="USiB5ADE2S48RDX-EepQ-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="USiB5ADE2S48RDX-EepQ-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="USiB5ADE2S48RDX-EepQ-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
